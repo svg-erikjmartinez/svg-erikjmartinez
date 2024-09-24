@@ -19,13 +19,6 @@
         --color-background: #ffffff;
         --color-link: #00BBF9;
         --color-link-active: #F15BB5;
-      
-<!--         --color-main: #ff9b71;
-        --color-primary: #ff4444;
-        --color-secondary: #e8e677;
-        --color-background: #0d1117;
-        --color-link: #fef29e;
-        --color-link-active: #ff4444; -->
 
         height: 400px;
         width: 100%;
