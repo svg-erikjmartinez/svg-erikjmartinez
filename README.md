@@ -1,1 +1,3 @@
-![Image Description](intro.svg)
+<p align="center">
+  <img src="intro.svg" alt="Banner">
+</p>
