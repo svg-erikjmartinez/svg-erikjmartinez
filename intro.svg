@@ -16,7 +16,7 @@
         --color-main: #9B5DE5;
         --color-primary: #F15BB5;
         --color-secondary: #00BBF9;
-        --color-background: #ffffff;
+        --color-background: #0d1117;
         --color-link: #00BBF9;
         --color-link-active: #F15BB5;
 
@@ -213,9 +213,9 @@
           <ul>
             <li>Software Engineer</li>
           </ul>
-<!--           <ul>
-            <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
-          </ul> -->
+          <ul>
+            <li>at <a href="https://springventuregroup.com/">Spring Venture Group</a></li>
+          </ul>
           <ul>
             <li><a href="#" role="button"><span class='hi'>👋</span></a></li>
           </ul>
