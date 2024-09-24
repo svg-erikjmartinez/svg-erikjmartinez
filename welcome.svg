@@ -203,7 +203,7 @@
     <div class='body'>
       <div class='container'>
         <h1>
-          <a href="https://github.com/nikolalsvk">
+          <a href="https://github.com/svg-erikjmartinez">
             <span><em>Erik Martinez</em></span>
             <span><em>Erik Martinez</em></span>
             <span><em>Erik Martinez</em></span>
@@ -213,11 +213,11 @@
           <ul>
             <li>Software Engineer</li>
           </ul>
-          <ul>
+<!--           <ul>
             <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
-          </ul>
+          </ul> -->
           <ul>
-            <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
+            <li><a href="#" role="button"><span class='hi'>👋</span></a></li>
           </ul>
         </section>
       </div>
